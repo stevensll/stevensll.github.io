@@ -58,6 +58,7 @@ h1{
   font-size: 2vw;
   font-weight: bold;
   margin-top: 0vw;
+  margin-bottom: 0vw;
 }
 
 .box p{
@@ -71,5 +72,5 @@ h1{
   object-fit: contain;
   object-position:center;
   margin-top: 1vw;
-  margin-bottom: 1vw;
+  margin-bottom: 0vw;
 }

@@ -1,0 +1,58 @@
+* {
+    font-family: Lexend, Arial, sans-serif;
+    white-space: wrap;
+    overflow-wrap: break-word;
+  }
+  
+  body{
+    margin: 0;
+  }
+
+  #content{
+    max-width: 75vw;
+    margin: 0vw auto;
+    padding: 0vw;
+    background-color: white;
+  }
+  
+  #heading{
+    text-align: center;
+    padding: 1vw;
+  }
+  
+  h1{
+    margin: 0;
+    font-size: 3.5vw;
+  }
+
+  h2{
+    margin: 0vw;
+    font-size: 2vw;
+    color: blue;
+  }
+  
+  section{
+    margin-bottom: 5vw;
+    width: 100%;
+  }
+  section p{
+    font-size: 1.25vw;
+    max-width: 100%;
+  }
+  h3{
+    margin: 0vw;
+  }
+  
+  .subheading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .subheading p {
+    margin: 3px 0;
+  }
+
+  .subheading a {
+    text-decoration: none;
+  }
